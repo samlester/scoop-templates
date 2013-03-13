@@ -1,0 +1,25 @@
+iframe#site {width: 100%; min-height: 100%;}
+.scoop-project-icon {width: 70px; margin-right: 15px;}
+h1 {font-size: 2em; margin-bottom: 0.3em;}
+h2 {font-size: 1.7em; margin-bottom: 0.3em;}
+h1, h2, h3 {margin-top: 0; line-height: 1.2;}
+.scoop-pageheader {padding-top: 30px; padding-bottom: 25px; overflow: hidden; width: 100%; margin-bottom: 30px;}
+.navbar {}
+.scoop-project {margin-bottom: 20px;}
+
+
+h1, h2, h3 {font-family: 'Open Sans', sans-serif;}
+body {background-color: #f3f3f3; color: #2f353e; -webkit-font-smoothing: antialiased;}
+a {font-weight: bold; color: #35a8df;}
+
+.scoop-pageheader {background-color: #fff;}
+
+table tr td:first-child, table tr th:first-child {padding-left: 0;}
+
+.navbar {background-color: #35a8df; color: #fff;}
+.navbar a {color: #fff;}
+.navbar .nav > li > a, .navbar .nav > li > p {color: #fff; padding:20px 20px; margin-bottom: 0;}
+.navbar-brand {padding:20px; width: 80px; background-image: url('../img/logo.png'); background-repeat: no-repeat; background-position: center 22px; text-indent: -9999px;}
+.navbar .nav > li > a:hover, .navbar .nav > li > a:focus {background-color: #339acb; color: #fff;}
+
+.btn-primary {background-color: #35a8df; border-color: #35a8df;}
