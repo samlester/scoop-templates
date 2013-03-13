@@ -12,8 +12,13 @@
 			<li><a href="#">Users</a></li>
 		</ul>
 		<ul class="nav nav-collapse collapse navbar-responsive-collapse pull-right">
-			<li><p>Hello Sam!</p></li>
-			<li><a href="#">Sign out</a></li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Sam Lester <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="#">Account</a></li>
+					<li><a href="#">Sign out</a></li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 </div>
