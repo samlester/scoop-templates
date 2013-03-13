@@ -24,4 +24,5 @@ table tr td:first-child, table tr th:first-child {padding-left: 0;}
 
 .btn-primary {background-color: #35a8df; border-color: #35a8df;}
 
-input[type="text"]:focus, input[type="password"]:focus {-webkit-box-shadow: none; box-shadow: none; border-color: #2f353e;}
+input[type="text"], input[type="password"], input[type="url"] {-webkit-box-shadow: none; box-shadow: none;}
+input[type="text"]:focus, input[type="password"]:focus, input[type="url"]:focus {-webkit-box-shadow: none; box-shadow: none; border-color: #2f353e;}
